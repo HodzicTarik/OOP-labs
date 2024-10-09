@@ -53,7 +53,7 @@ public class Main {
         System.out.println(no1 + " is less than " + no2);
     } else{
         System.out.println("They are equal");
-    }*/
-
+    }
+*/
     }
 }
